@@ -2,7 +2,7 @@
 
  **libraries**
 
--NimBLE-Arduino(IT WORKS AT VER.1.4.3)
+-NimBLE-Arduino(*IT WORKS AT VER.1.4.3*)
 
 -BleKeyboard.h
 
