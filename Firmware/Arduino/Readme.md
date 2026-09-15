@@ -1,4 +1,4 @@
-#This Firmware using 
+# This Firmware using 
 
 * **libraries**
 
@@ -8,6 +8,6 @@
 
 -Keypad.h
 
-LCD Image Converter tool
-https://www.teachmemicro.com/lcd-bitmap-converter-online/
+* **LCD Image Converter tool**
+* https://www.teachmemicro.com/lcd-bitmap-converter-online/
 
