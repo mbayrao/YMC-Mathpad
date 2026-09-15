@@ -1,6 +1,6 @@
 # This Firmware using 
 
-* **libraries**
+ **libraries**
 
 -BleKeyboard.h
 
@@ -8,6 +8,6 @@
 
 -Keypad.h
 
-* **LCD Image Converter tool**
+ **LCD Image Converter tool**
 * https://www.teachmemicro.com/lcd-bitmap-converter-online/
 
