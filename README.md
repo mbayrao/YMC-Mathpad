@@ -59,7 +59,7 @@ Layer4： ⊗⊕⊙∀∃ℕℤℚℝℍℙρ⇒⇔
 
 ## **Wiring / Schematic**
 
-完整電路圖 PDF：[hardware/pcb/YMC_Mathpad_v1.pdf](https://claude.ai/chat/hardware/pcb/schematic.pdf)
+完整電路圖 PDF：[hardware/pcb/YMC_Mathpad_v1.pdf](https://github.com/mbayrao/YMC-Mathpad/blob/main/Hardware/YMC_Mathpad_v1.pdf)
 
 ## **Credits / Acknowledgments**
 
