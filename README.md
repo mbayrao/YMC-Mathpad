@@ -41,17 +41,15 @@ Layer4： ⊗⊕⊙∀∃ℕℤℚℝℍℙρ⇒⇔
 | Folder | Contents |
 | ----- | ----- |
 | `/hardware/pcb` | KiCad/Eagle 電路圖、PCB 佈局、Gerber 製造檔、BOM |
-| `/hardware/cad` | CAD 原始檔（STEP）、外殼／定位板 STL 輸出檔 |
+| `/hardware/cad` | CAD 原始檔（STEP）、外殼／定位板 STEP 輸出檔 |
 | `/firmware` | 韌體原始碼 |
-| `/keymap` | 鍵位配置／Keymap 定義 |
-| `/docs` | 製作指南、配線圖、圖片 |
+
 
 ## **Build Instructions**
 
 1. **PCB**：使用 `/hardware/pcb/gerbers` 中的 Gerber 製造檔，向 \[JLCPCB/PCBWay/其他\] 下單製作。  
 2. **Case**：使用 `/hardware/cad` 中的 STEP 檔進行 3D 列印或 CNC 加工。  
-3. **Assembly**：請依照 [docs/build-guide.md](https://claude.ai/chat/docs/build-guide.md) 的說明進行組裝。  
-4. **Firmware**：依照下方的說明進行韌體燒錄。
+4. **Firmware**：依照Arduino IDE方式進行韌體燒錄。
 
 ## **CAD / Case Files**
 
