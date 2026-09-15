@@ -1,0 +1,188 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "57970f9e-4161-4603-bdc9-5d390c5d75f0")
+	(paper "A4")
+	(lib_symbols)
+	(rectangle
+		(start 149.86 76.2)
+		(end 181.61 91.44)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 59e3fbc3-4148-4110-a63a-e5c55429b917)
+	)
+	(rectangle
+		(start 105.41 76.2)
+		(end 137.16 91.44)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 97393107-750a-4d4c-b617-8ce2e8257cbb)
+	)
+	(rectangle
+		(start 105.41 53.34)
+		(end 137.16 62.23)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a694ab33-ea5f-42f1-93ff-807004f6ef9e)
+	)
+	(text "PC/MAC"
+		(exclude_from_sim no)
+		(at 107.696 58.42 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "1f805bfc-24be-457c-8075-5200efc35aeb")
+	)
+	(text "16 Keypad with LED"
+		(exclude_from_sim no)
+		(at 150.876 79.248 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "3b524ba3-4a4e-4d70-907c-a0e74aa5666d")
+	)
+	(text "MCU\nSTM32F103C8B6\nusing HID library"
+		(exclude_from_sim no)
+		(at 105.41 81.026 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "60595bd7-6c9e-46d5-89c8-1b5a7a962984")
+	)
+	(text "GPIO"
+		(exclude_from_sim no)
+		(at 139.954 82.804 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "97dc67c6-643b-4464-b470-21148d65bcff")
+	)
+	(text "USB(5V power)"
+		(exclude_from_sim no)
+		(at 123.19 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "cb975abf-5510-46d2-98b1-3459b3e79ca1")
+	)
+	(polyline
+		(pts
+			(xy 120.65 74.93) (xy 121.92 76.2)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(uuid "15cb54c9-b70a-4a97-b770-dd89a944f1f2")
+	)
+	(polyline
+		(pts
+			(xy 121.92 63.5) (xy 121.92 76.2)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(uuid "18442b36-27d2-4a1f-985f-30138631e77e")
+	)
+	(polyline
+		(pts
+			(xy 137.16 83.82) (xy 149.86 83.82)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(uuid "1c443475-3991-4cc7-a694-8d35ed1dcc5b")
+	)
+	(polyline
+		(pts
+			(xy 121.92 63.5) (xy 120.65 64.77)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(uuid "45b2f114-0e2e-4bcc-9309-96aa00d629e6")
+	)
+	(polyline
+		(pts
+			(xy 137.16 83.82) (xy 138.43 85.09)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(uuid "d367050e-3084-4836-a309-cc97b178bddb")
+	)
+	(polyline
+		(pts
+			(xy 121.92 76.2) (xy 123.19 74.93)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(uuid "d88af3ef-4942-4ae5-92e0-0cc4d01d8425")
+	)
+	(polyline
+		(pts
+			(xy 123.19 64.77) (xy 121.92 63.5)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(uuid "e681950c-475d-4d4b-a28d-c086e839cfe7")
+	)
+	(polyline
+		(pts
+			(xy 138.43 82.55) (xy 137.16 83.82)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(uuid "e95808d1-6d2e-4a13-b39d-5f3e5da3baa6")
+	)
+)
